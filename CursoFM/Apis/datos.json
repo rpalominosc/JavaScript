@@ -1,0 +1,17 @@
+{
+    "id":1,
+    "nombre":"Rodrigo Palominos",
+    "suscriptor_activo": true,
+    "posts":[
+        {
+            "id":1,
+            "titulo":"Titulo 1er.Post",
+            "texto":"Texto Post 1"
+        },
+        {
+            "id":1,
+            "titulo":"Titulo 2o.Post",
+            "texto":"Texto Post 2"
+        }
+    ]
+}
